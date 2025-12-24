@@ -20,10 +20,11 @@ Technical Arsenal
 | **[API Fuzzer](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/API_Fuzzer)** | **DAST** | A program that can sends malformed, unexpected, or random data (fuzzing) to an API's endpoints to identify vulnerabilities, crashes, or incorrect handling of inputs. |
 | **[Web Auditor](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/Web_Auditor)** | **Auditor** | Simple program that audits a website. |
 
-### 🔵 Blue Team & Defense
+### 🔵 Blue Team & Defensive Engineering
 | Project | Type | Description |
 | :--- | :--- | :--- |
 | **[PyWAF](https://github.com/uusrajaminyak/PyWebApplicationFirewall)** | **AppSec** | Custom Web Application Firewall (Layer 7) acting as a Reverse Proxy to block SQL Injection & XSS using Regex pattern matching. |
+| **[Mini SOC](https://github.com/uusrajaminyak/Cybersecurity/tree/main/Mini_SOC/wazuh-docker)** | **SecOps** | Deployment of **Wazuh SIEM** (Docker) with Sysmon integration to monitor endpoints and detect anomalies in real-time. |
 | **[Simple FIM](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Defensive-Tools/Simple_FIM)** | **Monitoring** | A lightweight File Integrity Monitoring tool calculating SHA-256 hashes to detect unauthorized file tampering. |
 | **[IR Triage](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Forensics/IR_Triage)** | **Forensics** | Portable script for First Responders to dump volatile data from compromised Windows machines. |
 | **[Stego Lab](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Steganography** | Research on hiding secret payloads inside image pixels (LSB Manipulation). |
