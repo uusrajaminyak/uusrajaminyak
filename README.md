@@ -15,8 +15,8 @@ Technical Arsenal
 | Project | Type | Description |
 | :--- | :--- | :--- |
 | **[Purple-Team-BAS](https://github.com/uusrajaminyak/BreachAttackSimulation)** | **Attack Simulation** | A Python-based automation tool mapped to **MITRE ATT&CK** to execute Discovery, Exfiltration, and Persistence techniques for testing SIEM/EDR. |
-| **[Keylogger](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Keylogger_Lab)** | **Malware** | A simple keylogger that can stole user's keyboard inputs without the user's knowledge. |
-| **[Ransomware](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Lab_Ransomware)** | **Malware** | A simple program that simulates ransomware that can lock user's file and requires a special randomly generated key to unlock. |
+| **[Keylogger](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Keylogger_Lab)** | **Malware** | A simple keylogger that captures user's keyboard inputs without the user's knowledge. |
+| **[Ransomware](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Lab_Ransomware)** | **Malware** | A simple program that simulates ransomware that can encrypt user's files and requires a special randomly generated key to unlock. |
 | **[API Fuzzer](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/API_Fuzzer)** | **DAST** | A program that can sends malformed, unexpected, or random data (fuzzing) to an API's endpoints to identify vulnerabilities, crashes, or incorrect handling of inputs. |
 | **[Web Auditor](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/Web_Auditor)** | **Auditor** | Simple program that audits a website. |
 
