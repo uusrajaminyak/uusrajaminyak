@@ -30,3 +30,5 @@ Technical Arsenal
 | **[Stego Lab](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Steganography** | Research on hiding secret payloads inside image pixels (LSB Manipulation). |
 | **[Secure Chat](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Cryptography** | A simple CMD based End to End secure chat system. | 
 
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uusrajaminyak&show_icons=true&theme=dark)
