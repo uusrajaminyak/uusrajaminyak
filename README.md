@@ -31,4 +31,4 @@ Technical Arsenal
 | **[Secure Chat](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Cryptography** | A simple CMD based End to End secure chat system. | 
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uusrajaminyak&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=uusrajaminyak&theme=dark&background=0d1117)](https://git.io/streak-stats)
