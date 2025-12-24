@@ -23,7 +23,6 @@ Technical Arsenal
 | **[PyWAF-Firewall](https://github.com/uusrajaminyak/PyWebApplicationFirewall)** | **AppSec** | Custom Web Application Firewall (Layer 7) acting as a Reverse Proxy to block SQL Injection & XSS using Regex pattern matching. |
 | **Mini SOC Lab** | **SecOps** | Deployment of **Wazuh SIEM** (Docker) with Sysmon integration to monitor endpoints and detect anomalies in real-time. |
 | **Simple FIM** | **Monitoring** | A lightweight File Integrity Monitoring tool calculating SHA-256 hashes to detect unauthorized file tampering. |
-| Project | Type | Description |
 | **Windows IR Triage** | **Forensics** | Portable script for First Responders to dump volatile data from compromised Windows machines. |
 | **Stego Lab** | **Steganography** | Research on hiding secret payloads inside image pixels (LSB Manipulation). |
 
