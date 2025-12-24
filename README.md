@@ -15,16 +15,17 @@ Technical Arsenal
 | Project | Type | Description |
 | :--- | :--- | :--- |
 | **[Purple-Team-BAS](https://github.com/uusrajaminyak/BreachAttackSimulation)** | **Attack Simulation** | A Python-based automation tool mapped to **MITRE ATT&CK** to execute Discovery, Exfiltration, and Persistence techniques for testing SIEM/EDR. |
-| **[Cybersecurity-Arsenal](https://github.com/uusrajaminyak/CybersecurityArsenal)** | **Toolkit** | My repository containing many small-size cybersecurity projects |
+| **[Keylogger](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Keylogger_Lab)** | **Malware** | A simple keylogger that can stole user's keyboard inputs without the user's knowledge. |
+| **[Ransomware](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Lab_Ransomware)** | **Malware** | A simple program that simulates ransomware that can lock user's file and requires a special randomly generated key to unlock. |
+| **[API Fuzzer](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/API_Fuzzer)** | **DAST** | A program that can sends malformed, unexpected, or random data (fuzzing) to an API's endpoints to identify vulnerabilities, crashes, or incorrect handling of inputs. |
+| **[Web Auditor](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/Web_Auditor)** | **Auditor** | Simple program that audits a website. |
 
 ### 🔵 Blue Team & Defense
 | Project | Type | Description |
 | :--- | :--- | :--- |
-| **[PyWAF-Firewall](https://github.com/uusrajaminyak/PyWebApplicationFirewall)** | **AppSec** | Custom Web Application Firewall (Layer 7) acting as a Reverse Proxy to block SQL Injection & XSS using Regex pattern matching. |
-| **Mini SOC Lab** | **SecOps** | Deployment of **Wazuh SIEM** (Docker) with Sysmon integration to monitor endpoints and detect anomalies in real-time. |
-| **Simple FIM** | **Monitoring** | A lightweight File Integrity Monitoring tool calculating SHA-256 hashes to detect unauthorized file tampering. |
-| **Windows IR Triage** | **Forensics** | Portable script for First Responders to dump volatile data from compromised Windows machines. |
-| **Stego Lab** | **Steganography** | Research on hiding secret payloads inside image pixels (LSB Manipulation). |
+| **[PyWAF](https://github.com/uusrajaminyak/PyWebApplicationFirewall)** | **AppSec** | Custom Web Application Firewall (Layer 7) acting as a Reverse Proxy to block SQL Injection & XSS using Regex pattern matching. |
+| **[Simple FIM](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Defensive-Tools/Simple_FIM)** | **Monitoring** | A lightweight File Integrity Monitoring tool calculating SHA-256 hashes to detect unauthorized file tampering. |
+| **[IR Triage](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Forensics/IR_Triage)** | **Forensics** | Portable script for First Responders to dump volatile data from compromised Windows machines. |
+| **[Stego Lab](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Steganography** | Research on hiding secret payloads inside image pixels (LSB Manipulation). |
+| **[Secure Chat](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Cryptography** | A simple CMD based End to End secure chat system. | 
 
-### 📊 GitHub Stats
-![Yustinus's GitHub stats](https://github-readme-stats.vercel.app/api?username=uusrajaminyak&show_icons=true&theme=dark&hide=contribs,issues)
