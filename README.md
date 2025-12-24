@@ -29,6 +29,3 @@ Technical Arsenal
 | **[IR Triage](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Forensics/IR_Triage)** | **Forensics** | Portable script for First Responders to dump volatile data from compromised Windows machines. |
 | **[Stego Lab](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Steganography** | Research on hiding secret payloads inside image pixels (LSB Manipulation). |
 | **[Secure Chat](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Cryptography** | A simple CMD based End to End secure chat system. | 
-
-### 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=uusrajaminyak&theme=dark&background=0d1117)](https://git.io/streak-stats)
