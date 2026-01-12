@@ -1,8 +1,8 @@
-# Hi, I'm Yustinus Hendi Setyawan,you can call me uus
+# Hi, I'm Yustinus Hendi Setyawan
 
 ### Cybersecurity enthusiast 🛡️
 
-I'm currently interested on **Offensive Security Automation**, **Defense Engineering**, and **Malware Analysis**. I build mini tools to simulate attacks and design systems to detect them.
+I'm currently interested on **Offensive Security Automation**, **Defense Engineering**, **Malware Analysis**, and **Reverse Engineering**. I build mini tools to simulate attacks and design systems to detect them.
 
 ---
 Technical Arsenal
