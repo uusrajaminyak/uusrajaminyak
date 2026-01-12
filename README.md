@@ -30,5 +30,5 @@ Technical Arsenal
 | **[Stego Lab](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Steganography** | Research on hiding secret payloads inside image pixels (LSB Manipulation). |
 | **[Secure Chat](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Cryptography** | A simple CMD based End to End secure chat system. | 
 
-### ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) Exclusive Projects
+### ![Kali Linux Logo](i.imgur.com) Exclusive Projects
 https://github.com/uusrajaminyak/Kali-Linux
