@@ -29,3 +29,6 @@ Technical Arsenal
 | **[IR Triage](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Forensics/IR_Triage)** | **Forensics** | Portable script for First Responders to dump volatile data from compromised Windows machines. |
 | **[Stego Lab](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Steganography** | Research on hiding secret payloads inside image pixels (LSB Manipulation). |
 | **[Secure Chat](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Cryptography** | A simple CMD based End to End secure chat system. | 
+
+### ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) Exclusive Projects
+https://github.com/uusrajaminyak/Kali-Linux
