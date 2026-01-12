@@ -5,12 +5,11 @@
 I'm currently interested on **Offensive Security Automation**, **Defense Engineering**, **Malware Analysis**, and **Reverse Engineering**. I build mini tools to simulate attacks and design systems to detect them.
 
 ---
-Technical Arsenal
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge)
 
-## Security Projects ⚔️
+## Security Projects 
 ### 🔴 Red Team & Offensive Engineering
 | Project | Type | Description |
 | :--- | :--- | :--- |
@@ -30,5 +29,5 @@ Technical Arsenal
 | **[Stego Lab](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Steganography** | Research on hiding secret payloads inside image pixels (LSB Manipulation). |
 | **[Secure Chat](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Cryptography** | A simple CMD based End to End secure chat system. | 
 
-### ![Kali Linux Logo](www.kali.org) Exclusive Projects
+### [Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) Exclusive Projects
 https://github.com/uusrajaminyak/Kali-Linux
