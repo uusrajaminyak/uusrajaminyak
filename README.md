@@ -8,56 +8,56 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 
 ### Languages and Tools
 <p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
   
-  <a href="https://www.intel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="assembly"/>
+  <a href="https://www.intel.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intel/intel-original.svg" alt="x86 Assembly" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali"/>
+  <a href="https://www.kali.org/" target="_blank"> 
+    <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="kali" width="40" height="40"/> 
   </a>
 
-  <a href="https://wazuh.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-00B0FF?style=for-the-badge&logo=wazuh&logoColor=white" alt="wazuh"/>
+  <a href="https://wazuh.com/" target="_blank"> 
+    <img src="https://cdn.simpleicons.org/wazuh/00B0FF" alt="wazuh" width="40" height="40"/> 
   </a>
 
-  <a href="https://ghidra-sre.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-DF0000?style=for-the-badge&logo=ghidra&logoColor=white" alt="ghidra"/>
+  <a href="https://ghidra-sre.org/" target="_blank"> 
+    <img src="https://cdn.simpleicons.org/ghidra/DF0000" alt="ghidra" width="40" height="40"/> 
   </a>
 
-  <a href="https://nmap.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-2D5E8E?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/>
+  <a href="https://nmap.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
+  <a href="https://www.wireshark.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/> 
   </a>
 
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.shields.io/badge/-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/>
+  <a href="https://www.bash.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
   </a>
 </p>
 
