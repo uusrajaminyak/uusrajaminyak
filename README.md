@@ -1,33 +1,56 @@
-# Hi, I'm Yustinus Hendi Setyawan
+# Hi, I'm Yustinus Hendi Setyawan 
 
-### Cybersecurity enthusiast 
+### Cybersecurity newbie and Computer Science major at Diponegoro University
 
-I'm currently interested on **Offensive Security Automation**, **Defense Engineering**, **Malware Analysis**, and **Reverse Engineering**. I build mini tools to simulate attacks and design systems to detect them.
+I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engineering and a side of Offensive Security Automation. I focus my work in malicious event detection whilst also creating a system that simulates the attack itself.
 
 ---
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge)
 
-## Security Projects 
-### 🔴 Red Team & Offensive Engineering
-| Project | Type | Description |
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-Intel-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge" />
+</div>
+
+<br/>
+
+## Featured Projects
+
+| Project | Domain | Description |
 | :--- | :--- | :--- |
-| **[Purple-Team-BAS](https://github.com/uusrajaminyak/BreachAttackSimulation)** | **Attack Simulation** | A Python-based automation tool mapped to **MITRE ATT&CK** to execute Discovery, Exfiltration, and Persistence techniques for testing SIEM/EDR. |
-| **[Keylogger](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Keylogger_Lab)** | **Malware** | A simple keylogger that captures user's keyboard inputs without the user's knowledge. |
-| **[Ransomware](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Lab_Ransomware)** | **Malware** | A simple program that simulates ransomware that can encrypt user's files and requires a special randomly generated key to unlock. |
-| **[API Fuzzer](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/API_Fuzzer)** | **DAST** | A program that can sends malformed, unexpected, or random data (fuzzing) to an API's endpoints to identify vulnerabilities, crashes, or incorrect handling of inputs. |
-| **[Web Auditor](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/Web_Auditor)** | **Auditor** | Simple program that audits a website. |
+| [Purple-Team-BAS](https://github.com/uusrajaminyak/BreachAttackSimulation) | Offensive Security | A Python-based Breach & Attack Simulation tool mapped to MITRE ATT&CK to execute Discovery, Exfiltration, and Persistence techniques for validating SIEM/EDR rules. |
+| [PyWAF](https://github.com/uusrajaminyak/PyWebApplicationFirewall) | Application Security | Custom Web Application Firewall (Layer 7) acting as a Reverse Proxy to intercept and block OWASP Top 10 attacks (SQLi, XSS, LFI) using Regex pattern matching. |
+| [Malware Unpacker](https://github.com/uusrajaminyak/Kali-Linux/tree/main/Malware_Unpacker) | Reverse Engineering | Automated script using Qiling Framework to dynamically detect OEP and dump unpacked payloads from UPX-packed binaries. |
+| [Symbolic De-virtualizer](https://github.com/uusrajaminyak/Kali-Linux/tree/main/De-virtualization%20%26%20Symbolic%20Execution%20Tool) | Reverse Engineering | A de-obfuscation tool utilizing Triton and Z3 Solver to simplify virtualized code and solve obfuscated logic constraints. |
+| [eBPF EDR](https://github.com/uusrajaminyak/Kali-Linux/tree/main/eBPF_EDR) | Kernel-Level Security | Experimental Endpoint Detection & Response agent leveraging eBPF to trace system calls and detect rootkits at the kernel level. |
+| [Process Integrity Scanner](https://github.com/uusrajaminyak/Kali-Linux/tree/main/Process%20Integrity%20Scanner) | Memory Forensics | A tool to scan running process memory for injected code or hooked functions. |
 
-### 🔵 Blue Team & Defensive Engineering
-| Project | Type | Description |
-| :--- | :--- | :--- |
-| **[PyWAF](https://github.com/uusrajaminyak/PyWebApplicationFirewall)** | **AppSec** | Custom Web Application Firewall (Layer 7) acting as a Reverse Proxy to block SQL Injection & XSS using Regex pattern matching. |
-| **[Mini SOC](https://github.com/uusrajaminyak/Cybersecurity/tree/main/Mini_SOC/wazuh-docker)** | **SecOps** | Deployment of **Wazuh SIEM** (Docker) with Sysmon integration to monitor endpoints and detect anomalies in real-time. |
-| **[Simple FIM](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Defensive-Tools/Simple_FIM)** | **Monitoring** | A lightweight File Integrity Monitoring tool calculating SHA-256 hashes to detect unauthorized file tampering. |
-| **[IR Triage](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Forensics/IR_Triage)** | **Forensics** | Portable script for First Responders to dump volatile data from compromised Windows machines. |
-| **[Stego Lab](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Steganography** | Research on hiding secret payloads inside image pixels (LSB Manipulation). |
-| **[Secure Chat](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography)** | **Cryptography** | A simple CMD based End to End secure chat system. | 
+<br/>
 
-### ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) Exclusive Projects
-https://github.com/uusrajaminyak/Kali-Linux
+## Other Projects
+
+### 🔴 Red Team & Offensive Tools
+| Project | Description |
+| :--- | :--- |
+| [Keylogger](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Keylogger_Lab) | Stealthy keystroke logger for behavioral analysis. |
+| [Ransomware Sim](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Lab_Ransomware) | Educational ransomware simulation demonstrating file encryption/decryption mechanics. |
+| [API Fuzzer](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/API_Fuzzer) | DAST tool to fuzz API endpoints with malformed data to find edge-case crashes. |
+| [Web Auditor](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/Web_Auditor) | Lightweight script to scan websites for common misconfigurations. |
+
+### 🔵 Blue Team & Defensive Tools
+| Project | Description |
+| :--- | :--- |
+| [Mini SOC](https://github.com/uusrajaminyak/Cybersecurity/tree/main/Mini_SOC/wazuh-docker) | Deployment of Wazuh SIEM (Docker) integrated with Sysmon for real-time threat detection. |
+| [Simple FIM](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Defensive-Tools/Simple_FIM) | File Integrity Monitoring tool calculating SHA-256 hashes to detect unauthorized tampering. |
+| [IR Triage](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Forensics/IR_Triage) | Forensic script for First Responders to verify volatile data (RAM, Connections) on compromised hosts. |
+| [Stego Lab](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography) | Research on hiding secret payloads inside image pixels (LSB Manipulation). |
+| [Secure Chat](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography) | End-to-End Encrypted (E2EE) chat system implementation. |
+
+<br/>
+
+---
+<p align="center">
+  Made with love by Yustinus Hendi Setyawan
+</p>
