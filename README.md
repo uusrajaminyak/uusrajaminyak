@@ -71,7 +71,7 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 | Project | Description |
 | :--- | :--- |
 | [Keylogger](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Keylogger_Lab) | Stealthy keystroke logger for behavioral analysis. |
-| [Ransomware Sim](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Lab_Ransomware) | Educational ransomware simulation demonstrating file encryption/decryption mechanics. |
+| [Ransomware Simulator](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Lab_Ransomware) | Educational ransomware simulation demonstrating file encryption/decryption mechanics. |
 | [API Fuzzer](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/API_Fuzzer) | DAST tool to fuzz API endpoints with malformed data to find edge-case crashes. |
 | [Web Auditor](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/Web_Auditor) | Lightweight script to scan websites for common misconfigurations. |
 
