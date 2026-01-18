@@ -7,13 +7,48 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 ---
 
 ### Languages and Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-Intel-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge" />
-</div>
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+  </a>
+  <a href="https://www.intel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="assembly"/>
+    <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali"/>
+  </a>
+  <a href="https://wazuh.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Wazuh-00B0FF?style=for-the-badge&logo=wazuh&logoColor=white" alt="wazuh"/>
+  </a>
+  <a href="https://ghidra-sre.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Ghidra-DF0000?style=for-the-badge&logo=ghidra&logoColor=white" alt="ghidra"/>
+  </a>
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/>
+  </a>
+</p>
 
 <br/>
 
