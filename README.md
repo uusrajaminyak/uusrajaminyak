@@ -13,7 +13,7 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
   </a>
   
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+    <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
   </a>
   
   <a href="https://www.intel.com/" target="_blank">
@@ -29,11 +29,11 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
   </a>
 
   <a href="https://ghidra-sre.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=ghidra&logoColor=white" alt="ghidra"/>
+    <img src="https://img.shields.io/badge/-DF0000?style=for-the-badge&logo=ghidra&logoColor=white" alt="ghidra"/>
   </a>
 
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://img.shields.io/badge/-1D1D1D?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/>
+    <img src="https://img.shields.io/badge/-2D5E8E?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/>
   </a>
 
   <a href="https://www.wireshark.org/" target="_blank">
@@ -53,13 +53,14 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
   </a>
 
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode"/>
+    <img src="https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
   </a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://img.shields.io/badge/-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash"/>
   </a>
 </p>
+
 <br/>
 
 ## Featured Projects
