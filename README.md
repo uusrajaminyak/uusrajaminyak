@@ -54,6 +54,14 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 
 <br/>
 
+### Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uusrajaminyak&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yustinus's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uusrajaminyak&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
+
+<br/>
+
 ---
 <p align="center">
   Made with love by Yustinus Hendi Setyawan
