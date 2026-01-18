@@ -85,12 +85,11 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 | [Secure Chat](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Cryptography) | End-to-End Encrypted (E2EE) chat system implementation. |
 
 <br/>
+
 ### Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uusrajaminyak&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
-
-<br/>
 
 ---
 <p align="center">
