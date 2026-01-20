@@ -2,6 +2,8 @@
 
 ### Cybersecurity newbie and Computer Science major at Diponegoro University
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="41aba984-8093-4d1a-9ddd-f1aff6e9ff9d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engineering and a side of Offensive Security Automation. I focus my work in malicious event detection whilst also creating a system that simulates the attack itself.
 
 ---
