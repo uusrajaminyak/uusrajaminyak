@@ -52,8 +52,8 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 
 | Project | Domain | Description |
 | :--- | :--- | :--- |
-| [Purple-Team-BAS](https://github.com/uusrajaminyak/BreachAttackSimulation) | Offensive Security | A Python-based Breach & Attack Simulation tool mapped to MITRE ATT&CK to execute Discovery, Exfiltration, and Persistence techniques for validating SIEM/EDR rules. |
-| [PyWAF](https://github.com/uusrajaminyak/PyWebApplicationFirewall) | Application Security | Custom Web Application Firewall (Layer 7) acting as a Reverse Proxy to intercept and block OWASP Top 10 attacks (SQLi, XSS, LFI) using Regex pattern matching. |
+| [Purple-Team-BAS](https://github.com/uusrajaminyak/Windows-11/tree/main/BAS) | Offensive Security | A Python-based Breach & Attack Simulation tool mapped to MITRE ATT&CK to execute Discovery, Exfiltration, and Persistence techniques for validating SIEM/EDR rules. |
+| [PyWAF](https://github.com/uusrajaminyak/Windows-11/tree/main/PyWAF) | Application Security | Custom Web Application Firewall (Layer 7) acting as a Reverse Proxy to intercept and block OWASP Top 10 attacks (SQLi, XSS, LFI) using Regex pattern matching. |
 | [Malware Unpacker](https://github.com/uusrajaminyak/Kali-Linux/tree/main/Malware_Unpacker) | Reverse Engineering | Automated script using Qiling Framework to dynamically detect OEP and dump unpacked payloads from UPX-packed binaries. |
 | [Symbolic De-virtualizer](https://github.com/uusrajaminyak/Kali-Linux/tree/main/De-virtualization%20%26%20Symbolic%20Execution%20Tool) | Reverse Engineering | A de-obfuscation tool utilizing Triton and Z3 Solver to simplify virtualized code and solve obfuscated logic constraints. |
 | [eBPF EDR](https://github.com/uusrajaminyak/Kali-Linux/tree/main/eBPF_EDR) | Kernel-Level Security | Experimental Endpoint Detection & Response agent leveraging eBPF to trace system calls and detect rootkits at the kernel level. |
