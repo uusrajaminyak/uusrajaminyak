@@ -2,8 +2,6 @@
 
 ### Cybersecurity newbie and Computer Science major at Diponegoro University
 
-[![ISC2 Candidate](https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/41aba984-8093-4d1a-9ddd-f1aff6e9ff9d/public_url)
-
 I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engineering and a side of Offensive Security Automation. I focus my work in malicious event detection whilst also creating a system that simulates the attack itself.
 
 ---
@@ -88,6 +86,10 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uusrajaminyak&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
+
+### Badges & Certifications
+
+[![ISC2 Candidate](https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/41aba984-8093-4d1a-9ddd-f1aff6e9ff9d/public_url)
 
 ---
 <p align="center">
