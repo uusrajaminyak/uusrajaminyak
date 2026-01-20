@@ -14,10 +14,6 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
   </a>
-  <a href="https://www.intel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="assembly"/>
-    <img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="intel"/>
-  </a>
   <a href="https://www.kali.org/" target="_blank">
     <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali"/>
   </a>
