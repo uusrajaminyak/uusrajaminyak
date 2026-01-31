@@ -2,7 +2,7 @@
 
 ### Cybersecurity newbie and Computer Science major at Diponegoro University
 
-I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engineering and a side of Offensive Security Automation. I focus my work in malicious event detection whilst also creating a system that simulates the attack itself.
+I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engineering and a side of Offensive Security Automation. I focus my work in malicious event detection whilst also creating a system that simulates the attack itself. I aim to become a CISO (Chief Information Security Officer).
 
 ---
 
