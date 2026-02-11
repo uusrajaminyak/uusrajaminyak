@@ -63,7 +63,7 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 
 ## Other Projects
 
-### 🔴 Red Team & Offensive Tools
+### 🔴 Red Team
 | Project | Description |
 | :--- | :--- |
 | [Keylogger](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Malware-Analysis/Keylogger_Lab) | Stealthy keystroke logger for behavioral analysis. |
@@ -71,7 +71,7 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 | [API Fuzzer](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/API_Fuzzer) | DAST tool to fuzz API endpoints with malformed data to find edge-case crashes. |
 | [Web Auditor](https://github.com/uusrajaminyak/CybersecurityArsenal/tree/main/Offensive-Tools/Web_Auditor) | Lightweight script to scan websites for common misconfigurations. |
 
-### 🔵 Blue Team & Defensive Tools
+### 🔵 Blue Team 
 | Project | Description |
 | :--- | :--- |
 | [Mini SOC](https://github.com/uusrajaminyak/Cybersecurity/tree/main/Mini_SOC/wazuh-docker) | Deployment of Wazuh SIEM (Docker) integrated with Sysmon for real-time threat detection. |
