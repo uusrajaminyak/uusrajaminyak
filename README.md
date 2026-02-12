@@ -83,8 +83,13 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 <br/>
 
 ### Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uusrajaminyak&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+<div align="center">
+  <a href="https://github.com/uusrajaminyak">
+    <img src="https://github-readme-stats.vercel.app/api?username=uusrajaminyak&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  </a>
+  <a href="https://github.com/uusrajaminyak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uusrajaminyak&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  </a>
 </div>
 
 ### Badges & Certifications
