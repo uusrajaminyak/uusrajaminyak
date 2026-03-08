@@ -82,13 +82,6 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 
 <br/>
 
-### Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uusrajaminyak&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uusrajaminyak&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
-</div>
-
 ### Badges & Certifications
 
 [![ISC2 Candidate](https://images.credly.com/size/220x220/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/41aba984-8093-4d1a-9ddd-f1aff6e9ff9d/public_url)
