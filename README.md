@@ -84,26 +84,6 @@ I'm interested in, Malware Analysis, Low-Level Defense Engineering, Reverse Engi
 
 ### Stats
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uusrajaminyak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=uusrajaminyak&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
