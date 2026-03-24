@@ -2,9 +2,7 @@
 
 ### Cybersecurity Researcher | Computer Science Undergraduate @ Diponegoro University
 
-Aspiring Chief Information Security Officer (CISO) specializing in Malware Analysis, Reverse Engineering, Low-Level Defense Architecture, and Offensive Security Automation. 
-
-My core research revolves around engineering proactive defense mechanisms, identifying sophisticated threat vectors through malicious event detection, and developing robust Breach and Attack Simulation (BAS) frameworks to emulate real-world adversarial tactics. I am passionate about bridging the gap between offensive operations and defensive engineering.
+Aspiring Chief Information Security Officer (CISO) specializing in Malware Analysis, Reverse Engineering, Low-Level Defense Architecture, and Offensive Security Automation. My core research revolves around engineering proactive defense mechanisms, identifying sophisticated threat vectors through malicious event detection, and developing robust Breach and Attack Simulation (BAS) frameworks to emulate real-world adversarial tactics. I am passionate about bridging the gap between offensive operations and defensive engineering.
 
 ---
 
